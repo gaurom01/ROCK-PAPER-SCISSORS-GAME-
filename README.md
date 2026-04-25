@@ -1,11 +1,11 @@
-# 🎮 Rock-Paper-Scissors – Computer Vision Game
+#  Rock-Paper-Scissors – Computer Vision Game
 
-## 📌 Description
+##  Description
 A computer vision-based Rock-Paper-Scissors game that uses a webcam to detect hand gestures in real time. The user plays against the computer for 3 rounds, and all results are stored in a SQL database.
 
 ---
 
-## 🚀 Features
+##  Features
 - Real-time hand gesture recognition using webcam  
 - Python-based computer vision processing  
 - 3-round gameplay system  
@@ -14,14 +14,14 @@ A computer vision-based Rock-Paper-Scissors game that uses a webcam to detect ha
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - OpenCV  
 - SQL  
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 - Capture hand gesture using webcam  
 - Detect and classify gesture (Rock / Paper / Scissors)  
 - Generate computer move randomly  
@@ -30,7 +30,7 @@ A computer vision-based Rock-Paper-Scissors game that uses a webcam to detect ha
 
 ---
 
-## ▶️ Installation & Run
+##  Installation & Run
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
